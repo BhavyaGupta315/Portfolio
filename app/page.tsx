@@ -7,7 +7,11 @@ export default function Home() {
         <p className="list-inside list-decimal text-[30px] text-center sm:text-left font-[family-name:var(--font-geist-mono)]">
           Bhavya Gupta
         </p>
+        <p className="list-inside list-decimal text-[30px] text-center sm:text-left font-[family-name:var(--font-geist-mono)]">
+          MERN Stack Developer, Web-3 Developer, Competitive Programmer
+        </p>
       </main>
+      *Website under Development*
       <footer className="row-start-3 flex gap-6 flex-wrap items-center justify-center">
         <a
           className="flex items-center gap-2 hover:underline hover:underline-offset-4"
